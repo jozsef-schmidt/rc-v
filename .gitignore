@@ -1,0 +1,14 @@
+# Diff
+*.diff
+*.patch
+
+# Swap
+*.swp
+
+# Temp
+*.tmp
+
+# VS Code
+.vscode/*
+*.code-workspace
+.history/
