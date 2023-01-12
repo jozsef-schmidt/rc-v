@@ -100,4 +100,6 @@ set history=100
 
 " syntax
 syntax enable
+colorscheme cs01
+" colorscheme cs02
 
